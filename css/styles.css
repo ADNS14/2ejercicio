@@ -96,6 +96,6 @@ body {
   text-align: center;
   padding: 20px;
   color: var(--gray);
-  border-top: 1px solid #333;
+  border-top: 1px solid #333333;
 }
 a { color: var(--netflix-red); }
