@@ -98,3 +98,4 @@ body {
   color: var(--gray);
   border-top: 1px solid #333;
 }
+a { color: var(--netflix-red); }
