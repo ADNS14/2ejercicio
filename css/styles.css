@@ -51,7 +51,7 @@ body {
 }
 
 .series-card:hover {
-  transform: translateY(-6px);
+  transform: translateY(-8px);
 }
 
 .series-card img {
